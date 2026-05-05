@@ -1,0 +1,32 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1"
+  ],
+  "alsoKnownAs": [
+    "did:pkh:eip155:1:0xb382fE5970f900d7f637304f14997c9473177082"
+  ],
+  "assertionMethod": [
+    "did:web:agents.kestrelsovereign.com:claw#key-1",
+    "did:web:agents.kestrelsovereign.com:claw#key-2"
+  ],
+  "authentication": [
+    "did:web:agents.kestrelsovereign.com:claw#key-1",
+    "did:web:agents.kestrelsovereign.com:claw#key-2"
+  ],
+  "id": "did:web:agents.kestrelsovereign.com:claw",
+  "verificationMethod": [
+    {
+      "controller": "did:web:agents.kestrelsovereign.com:claw",
+      "id": "did:web:agents.kestrelsovereign.com:claw#key-1",
+      "publicKeyMultibase": "z6Mkpu9ERquBYAwAAnF7vVjGzXVxYUeTRw48qi9aUVzJg6XE",
+      "type": "Multikey"
+    },
+    {
+      "controller": "did:web:agents.kestrelsovereign.com:claw",
+      "id": "did:web:agents.kestrelsovereign.com:claw#key-2",
+      "publicKeyMultibase": "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",
+      "type": "Multikey"
+    }
+  ]
+}

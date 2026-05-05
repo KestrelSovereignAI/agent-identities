@@ -1,0 +1,32 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1"
+  ],
+  "alsoKnownAs": [
+    "did:pkh:eip155:1:0x6df37834F2bC8c6d1651b500D83596d25eF6be2a"
+  ],
+  "assertionMethod": [
+    "did:web:agents.kestrelsovereign.com:nellie#key-1",
+    "did:web:agents.kestrelsovereign.com:nellie#key-2"
+  ],
+  "authentication": [
+    "did:web:agents.kestrelsovereign.com:nellie#key-1",
+    "did:web:agents.kestrelsovereign.com:nellie#key-2"
+  ],
+  "id": "did:web:agents.kestrelsovereign.com:nellie",
+  "verificationMethod": [
+    {
+      "controller": "did:web:agents.kestrelsovereign.com:nellie",
+      "id": "did:web:agents.kestrelsovereign.com:nellie#key-1",
+      "publicKeyMultibase": "z6Mkft2ZjMzjq6hE58nTaPF4KygjqY5m57rpEizFK43BNqjQ",
+      "type": "Multikey"
+    },
+    {
+      "controller": "did:web:agents.kestrelsovereign.com:nellie",
+      "id": "did:web:agents.kestrelsovereign.com:nellie#key-2",
+      "publicKeyMultibase": "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",
+      "type": "Multikey"
+    }
+  ]
+}
