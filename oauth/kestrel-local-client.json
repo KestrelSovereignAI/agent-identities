@@ -1,0 +1,17 @@
+{
+  "client_id": "https://agents.kestrelsovereign.com/oauth/kestrel-local-client.json",
+  "client_name": "Kestrel local MCP client",
+  "client_uri": "https://kestrelsovereign.com",
+  "redirect_uris": [
+    "http://127.0.0.1:44721/oauth/callback"
+  ],
+  "application_type": "native",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
