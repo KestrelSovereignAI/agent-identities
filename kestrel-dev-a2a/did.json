@@ -1,0 +1,29 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1"
+  ],
+  "id": "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a",
+  "verificationMethod": [
+    {
+      "id": "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a#key-1",
+      "type": "Multikey",
+      "controller": "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a",
+      "publicKeyMultibase": "z6Mkn1brTBkMyn3LiksmHaq6YMhytf5PmYYEi2pS1S2bU58C"
+    },
+    {
+      "id": "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a#key-2",
+      "type": "Multikey",
+      "controller": "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a",
+      "publicKeyMultibase": "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"
+    }
+  ],
+  "authentication": [
+    "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a#key-1",
+    "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a#key-2"
+  ],
+  "assertionMethod": [
+    "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a#key-1",
+    "did:web:agents.kestrelsovereign.com:kestrel-dev-a2a#key-2"
+  ]
+}
